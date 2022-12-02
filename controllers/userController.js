@@ -1,6 +1,11 @@
 const fs = require("fs");
 const randomInteger = (min, max) =>
   Math.floor(Math.random() * (max - min + 1)) + min;
+
+
+module.exports.home = () => {
+    res.json('this is random api')
+}
 module.exports.getRandomUser = (req, res, next) => {
   const jsonString = fs.readFileSync("./public/allusers.json");
   const users = JSON.parse(jsonString);

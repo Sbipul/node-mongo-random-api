@@ -1,6 +1,7 @@
 const express = require('express')
 const router = express.Router()
 const userController = require('../../controllers/userController')
+router.route("/home").get(userController.home)
 router.route("/random").get(userController.getRandomUser)
 router.route("/user").get(userController.getAllUsers)
 router.route("/save").post(userController.saveUser)
