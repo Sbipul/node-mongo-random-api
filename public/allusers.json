@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Emma watson",
+    "gender": "female",
+    "contact": "0588544",
+    "address": "USA",
+    "photoUrl": "https://hips.hearstapps.com/hbz.h-cdn.co/assets/16/10/2048x2048/square-1457919704-gettyimages-480667731.jpg?resize=640:*"
+  },
+  {
+    "id": 2,
+    "name": "Ketty perry",
+    "gender": "female",
+    "contact": "0588544",
+    "address": "Canada",
+    "photoUrl": "https://nationaltoday.com/wp-content/uploads/2020/10/Katy-Perrys-Birthday-1.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Chadweek boseman",
+    "gender": "male",
+    "contact": "123456789",
+    "address": "Nigeria",
+    "photoUrl": "https://img.apmcdn.org/8456d5c7403a7edd21c99d5e55a38dd38b8eafa5/portrait/35dd21-20200829-boseman02.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Chris Evans",
+    "gender": "male",
+    "contact": "0588544",
+    "address": "Australia",
+    "photoUrl": "https://www.denofgeek.com/wp-content/uploads/2021/01/webstory-captain-america-cover03.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Christian Stwart",
+    "gender": "female",
+    "contact": "0588544",
+    "address": "USA",
+    "photoUrl": "https://static.wikia.nocookie.net/twilightsaga/images/5/52/Kirsten_Stewart.jpg/revision/latest?cb=20150524125722"
+  },
+  {
+    "id": "6",
+    "name": "Henry cavil",
+    "gender": "male",
+    "contact": "123456789",
+    "address": "London",
+    "photoUrl": "https://m.media-amazon.com/images/M/MV5BODI0MTYzNTIxNl5BMl5BanBnXkFtZTcwNjg2Nzc0NA@@._V1_.jpg"
+  }
+]
