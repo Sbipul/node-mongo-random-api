@@ -3,3 +3,12 @@
 #for save user - https://node-mongo-random-api.vercel.app/api/v1/user/save
 #for update one - https://node-mongo-random-api.vercel.app/api/v1/user/update/6
 #for delete one - https://node-mongo-random-api.vercel.app/api/v1/user/delete
+
+
+post with this property
+Id
+gender
+name
+contact
+address
+photoUrl
