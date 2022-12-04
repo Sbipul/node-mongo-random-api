@@ -6,7 +6,7 @@
 
 
 post with this property
-Id
+id
 gender
 name
 contact
